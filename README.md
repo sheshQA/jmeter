@@ -1,2 +1,2 @@
 # jmeter
-Нагрузочные тесты для двух эндпоинтов в Jmeter
+Load tests for two endpoints in Jmeter
